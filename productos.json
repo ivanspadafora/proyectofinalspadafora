@@ -1,0 +1,89 @@
+[
+    {
+      "id": 1,
+      "nombre": "Heladera",
+      "precio": 120000,
+      "color": "Blanco",
+      "imagen": "./assets/img/heladera.webp"
+    },
+    {
+      "id": 2,
+      "nombre": "Cocina",
+      "precio": 80000,
+      "color": "Acero Inoxidable",
+      "imagen": "./assets/img/cocina.webp"
+    },
+    {
+      "id": 3,
+      "nombre": "Lavarropas",
+      "precio": 150000,
+      "color": "Gris",
+      "imagen": "./assets/img/lavarropas.webp"
+    },
+    {
+      "id": 4,
+      "nombre": "Televisor",
+      "precio": 180000,
+      "color": "Negro",
+      "imagen": "./assets/img/televisor.webp"
+    },
+    {
+      "id": 5,
+      "nombre": "Celular",
+      "precio": 220000,
+      "color": "Azul",
+      "imagen": "./assets/img/celular.jpg"
+    },
+    {
+      "id": 6,
+      "nombre": "Aire Acondicionado",
+      "precio": 100000,
+      "color": "Blanco",
+      "imagen": "./assets/img/aireacondicionado.jpg"
+    },
+    {
+      "id": 7,
+      "nombre": "Microondas",
+      "precio": 60000,
+      "color": "Marrón",
+      "imagen": "./assets/img/microondas.png"
+    },
+    {
+      "id": 8,
+      "nombre": "Horno Eléctrico",
+      "precio": 90000,
+      "color": "Acero",
+      "imagen": "./assets/img/hornoelectrico.jpg"
+    },
+    {
+      "id": 9,
+      "nombre": "PC de Escritorio",
+      "precio": 250000,
+      "color": "Negro",
+      "imagen": "./assets/img/pc.jpg"
+    },
+    {
+      "id": 10,
+      "nombre": "Secarropas",
+      "precio": 50000,
+      "color": "Gris",
+      "imagen": "./assets/img/secarropas.jpg"
+    },
+    {
+      "id": 11,
+      "nombre": "Lavavajillas",
+      "precio": 300000,
+      "color": "Blanco",
+      "imagen": "./assets/img/lavavajillas.jpg"
+    },
+    {
+      "id": 12,
+      "nombre": "Tablet",
+      "precio": 110000,
+      "color": "Verde",
+      "imagen": "./assets/img/tablet.webp"
+    }
+  ]
+  
+  
+  

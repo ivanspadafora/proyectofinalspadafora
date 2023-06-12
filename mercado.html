@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- link a bootstrap -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+    <!-- link a mi estilo -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+    <link rel="stylesheet" href="./css/style.css">
+    <title>PRIGS</title>
+</head>
+
+<body>
+    <header class="header">
+        <!-- Inicio navbar -->
+        <nav class="navbar navbar-dark bg-dark">
+            <a class="navbar-brand mx-2" href="./index.html">PRIGS</a>
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="link-carrito text-white mx-4" href="./carrito.html">
+                        <i class="fa-sharp fa-solid fa-cart-shopping"></i><span id="contador-carrito"></span>
+                    </a>
+                </li>
+            </ul>
+        </nav>
+        <!-- Fin navbar -->
+    </header>
+
+    <main class="electrodomesticos">
+        
+        <!--Inicio Grid bootstrap  -->
+        <div class="container text-center mb-4">
+
+            <div class="row g-3" id="contenedor-elect">
+               <!-- Muestro los productos desde JS -->
+            </div>
+
+        </div>
+        <!--Fin Grid bootstrap  -->
+    </main>
+
+    <!-- Inicio footer -->
+    <footer class="footer">
+        <h3>Síguenos en nuestras redes sociales</h3>
+        <ul>
+            <li>
+                <div>
+                    <a href="https://www.facebook.com/" class="icono" target="_blank">
+                        <i class="fa-brands fa-facebook"></i>
+                    </a>
+                </div>
+            </li>
+            <li>
+                <a href="https://www.instagram.com/" class="icono" target="_blank">
+                    <i class="fa-brands fa-instagram"></i>
+                </a>
+            </li>
+            <li>
+                <a href="https://www.twitter.com/" class="icono" target="_blank">
+                    <i class="fa-brands fa-twitter"></i>
+                </a>
+            </li>
+        </ul>
+        <p> Alumno: Ivan Giuliano Spadafora</p>
+    </footer>
+    <!-- Fin footer -->
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+
+    <!-- link a bootstrap js -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+        <!-- link a mi js -->
+    <script src="./js/mercado.js"></script>
+
+</body>
+
+</html>
